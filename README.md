@@ -1,4 +1,4 @@
-# Yu-Gi-Oh! Power of Chaos - 720p Mod
+# Yu-Gi-Oh! Power of Chaos - HD Mod (768p)
 
 Unfinished, but works. Feel free to edit it and commit here.
 
@@ -15,3 +15,6 @@ How to run:
 * Press the Patch Button
 * Search your "joey_pc.exe"
 * Finished! You can now start the game over the Launcher
+
+# Video
+[![Mod Preview](https://img.youtube.com/vi/iXEGK6MnimM/0.jpg)](https://www.youtube.com/watch?v=iXEGK6MnimM)
