@@ -1,0 +1,2 @@
+kabegami/export_1.bmp				//	Export On
+kabegami/export_2.bmp				//	Export Push

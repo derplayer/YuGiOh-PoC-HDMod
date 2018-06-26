@@ -1,0 +1,10 @@
+fuki/tutorial_win0s.yga	116
+fuki/tutorial_win0.yga	142
+fuki/tutorial_win0b.yga	
+fuki/tutorial_win1lu.bmp
+fuki/tutorial_win1ld.bmp
+fuki/tutorial_win1ru.bmp
+fuki/tutorial_win1rd.bmp
+fuki/tutorial_cur.bmp	040032
+fuki/tutorial_win1u.bmp
+fuki/tutorial_win1d.bmp

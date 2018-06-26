@@ -1,0 +1,4 @@
+overwrite/over_ok_1.bmp			//	Ok On
+overwrite/over_ok_2.bmp			//	Ok Push
+overwrite/over_cancel_1_?.bmp		//	Cancel On
+overwrite/over_cancel_2_?.bmp		//	Cancel Push

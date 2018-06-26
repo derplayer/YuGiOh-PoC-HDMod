@@ -1,0 +1,2 @@
+filter_small_?/type_1.bmp				//	Type On
+filter_small_?/type_2.bmp				//	Type Push

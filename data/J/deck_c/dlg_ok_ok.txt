@@ -1,0 +1,2 @@
+warning/ok_1.bmp	155056		//	OK ON
+warning/ok_2.bmp			//	OK Push

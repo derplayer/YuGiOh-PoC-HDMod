@@ -1,0 +1,54 @@
+// フェイズネーム（自分）ReleaseLevel:0
+?_dr_b.bmp
+?_st_b.bmp
+?_m1_b.bmp
+?_ba_b.bmp
+?_m2_b.bmp
+?_en_b.bmp
+// フェイズネーム（相手）ReleaseLevel:0
+?_dr_r.bmp
+?_st_r.bmp
+?_m1_r.bmp
+?_ba_r.bmp
+?_m2_r.bmp
+?_en_r.bmp
+
+// バトルきらり（自分）ReleaseLevel:0
+?_ba_b1.bmp
+?_ba_b2.bmp
+?_ba_b3.bmp
+?_ba_b4.bmp
+?_ba_b5.bmp
+?_ba_b6.bmp
+?_ba_b7.bmp
+// バトルきらり（相手）ReleaseLevel:0
+?_ba_r1.bmp
+?_ba_r2.bmp
+?_ba_r3.bmp
+?_ba_r4.bmp
+?_ba_r5.bmp
+?_ba_r6.bmp
+?_ba_r7.bmp
+
+// ターンチェンジ（自分から）ReleaseLevel:0
+nex_?_b.yga
+nex_?_b1.yga
+nex_?_b2.yga
+nex_?_b3.yga
+nex_?_b4.yga
+nex_?_b5.yga
+nex_?_b6.yga
+nex_?_b7.yga
+nex_?_b8.yga
+nex_?_r.yga
+// ターンチェンジ（相手から）ReleaseLevel:0
+nex_?_r.yga
+nex_?_r1.yga
+nex_?_r2.yga
+nex_?_r3.yga
+nex_?_r4.yga
+nex_?_r5.yga
+nex_?_r6.yga
+nex_?_r7.yga
+nex_?_r8.yga
+nex_?_b.yga

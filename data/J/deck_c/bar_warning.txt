@@ -1,0 +1,4 @@
+warning/scroll.bmp	314056		//	スクロールバー
+warning/bar_w_long.bmp		//	スクロールバー少ないとき用
+warning/up_w.bmp			//	スクロールバー上ボタン
+warning/down_w.bmp			//	スクロールバー下ボタン

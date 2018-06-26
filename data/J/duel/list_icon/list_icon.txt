@@ -1,0 +1,16 @@
+// 自分・相手バー
+list_myself.bmp
+list_oppo.bmp
+// 手札・デッキ・墓場・融合・除外
+list_hand.bmp
+list_deck.bmp
+list_grave.bmp
+list_fusion.bmp
+list_exception.bmp
+// 禁止令・復活不可・融合素材・フュージョンゲート・ワームホール・封殺剣
+list_board.bmp
+list_summon.bmp
+list_material.bmp
+list_gate.bmp
+list_hole.bmp
+list_fusatu.bmp

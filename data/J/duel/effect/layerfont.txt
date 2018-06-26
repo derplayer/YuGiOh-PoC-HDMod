@@ -1,0 +1,2 @@
+demo_font_?.bmp
+wait_?.bmp

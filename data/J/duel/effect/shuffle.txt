@@ -1,0 +1,6 @@
+deck_shuf_waku_?.yga
+deck_shuf1.bmp
+deck_shuf2.bmp
+deck_shuf3.bmp
+deck_shuf4.bmp
+deck_shuf5.bmp

@@ -1,0 +1,6 @@
+cha_mukou1.yga
+cha_mukou2.yga
+cha_mukou3.yga
+cha_mukou4.yga
+cha_mukou5.yga
+cha_mukou6.yga

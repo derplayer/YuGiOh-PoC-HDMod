@@ -1,0 +1,14 @@
+card_waku#s.bmp		// 自分枠
+card_waku#l.bmp		// 自分手札枠
+card_waku#s2.bmp	// 相手枠
+card_waku#l2.bmp	// 相手手札枠
+icon_zokusei.bmp	10	// 属性アイコン
+icon_syuzoku.bmp	20	// 種族アイコン
+pas_eff_suna.bmp	6	// 砂時計アニメ
+pas_eff.bmp	8		// 経過アニメ
+pas_eff_skul.bmp	4	// 骸骨アニメ
+pas_eff2.bmp	8	// 経過アニメ
+yaji_ue1.bmp	// 矢印↑
+yaji_ue2.bmp	// 矢印↑
+yaji_sita1.bmp	// 矢印↓
+yaji_sita2.bmp	// 矢印↓

@@ -1,0 +1,4 @@
+kabegami/kaban_bar.bmp			//	かばん用スクロールバー
+kabegami/bar.bmp		//	かばん用スクロールバーの枚数の少ないとき用
+kabegami/kaban_up.bmp			//	かばん用スクロールバー下ボタン
+kabegami/kaban_down.bmp			//	かばん用スクロールバー上ボタン

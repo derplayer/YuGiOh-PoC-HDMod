@@ -1,0 +1,6 @@
+coin_rotate.bmp	14	// 回転コイン
+coin_sha.yga	4	// コイン影
+coin_ripple.yga		// 衝撃
+coin_mask.bmp		// 反射マスク
+coin_ref.bmp		// 反射
+coin_kirari.yga	4	// 星

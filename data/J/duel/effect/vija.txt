@@ -1,0 +1,6 @@
+// アニメパターン数*1000+Yオフセット
+vija_smoke.yga		5004	// 人魂
+vija_skel.bmp		5004	// がいこっつ
+vija_moji_smo.yga	8031	// 文字前煙
+vija_moji_mask.bmp	5031	// 文字マスク
+vija_moji_iro.bmp			// もやーん背景

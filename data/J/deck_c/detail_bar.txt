@@ -1,0 +1,4 @@
+kabegami/bar.bmp				//	詳細用スクロールバー
+kabegami/bar.bmp				//	詳細用スクロールバーの枚数の少ないとき用
+kabegami/bar_up.bmp				//	詳細用スクロールバー上ボタン
+kabegami/bar_down.bmp			//	詳細用スクロールバー下ボタン

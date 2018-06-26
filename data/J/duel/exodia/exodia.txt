@@ -1,0 +1,15 @@
+card_hikari.yga	028028
+effe_hikari.bmp	6
+
+// 元気玉,中央上からの相対座標
+exo_ball.yga	000409
+// 顔と腕のパーツ,中央上からの中心の相対座標
+exo_face1.yga	001178	// 溜め状態（顔）
+exo_arm1.yga	167289	// 溜め状態（右手）
+exo_arml1.yga	167289	// 溜め状態（左手）
+exo_face2.yga	002271	// 光状態（顔）
+exo_arm2.yga 	101370	// 光状態（右手）
+exo_arml2.yga	101370	// 光状態（左手）
+exo_face3.yga	001178	// 技状態（顔）
+exo_arm3.yga 	233315	// 技状態（右手）
+exo_arml3.yga 	233315	// 技状態（左手）

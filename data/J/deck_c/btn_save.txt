@@ -1,0 +1,2 @@
+kabegami/export_1_?.bmp		010059		//	Export On
+kabegami/export_2_?.bmp		010059		//	Export Push

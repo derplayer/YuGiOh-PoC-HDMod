@@ -1,0 +1,4 @@
+import/bar_i.bmp			//	インポート画面のスクロールバー
+import/bar_i_long.bmp		//	インポート画面の少ないときのスクロールバー
+import/up_i.bmp			//	スクロールバーの上ボタン
+import/down_i.bmp			//	スクロールバーの下ボタン

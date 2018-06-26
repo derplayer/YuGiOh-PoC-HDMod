@@ -1,0 +1,2 @@
+kabegami/f_rit_1.bmp			//	Ritual On
+kabegami/f_rit_2.bmp			//	Ritual Push

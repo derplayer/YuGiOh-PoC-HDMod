@@ -1,0 +1,10 @@
+// プレイヤーLOSE
+win/battle_city#.bmp	1003	// BACK,セリフ種類数
+win/00000000000.yga	438047	// 影
+win/kati_moji.yga		4	// 勝敗
+win/reaction09.bmp	000040		// YUGI
+win/reaction09_kuti2.bmp	213091	// 口中
+win/reaction09_kuti1.bmp	213091	// 口大
+win/0000000000000000.bmp	043039	// セリフ
+win/0000000000000000.bmp	043039	// セリフ
+win/0000000000000000.bmp	043039	// セリフ

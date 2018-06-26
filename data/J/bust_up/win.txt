@@ -1,0 +1,25 @@
+// ƒvƒŒƒCƒ„[WIN
+win/battle_city#.bmp	3	// BACK,ƒZƒŠƒtí—Ş”
+win/kati_kage.yga	9999999	// ‰e
+win/kati_moji.yga		30	// Ÿ”s
+win/reaction09.bmp	000040		// JOEY
+null.bmp		// –Ú’†
+null.bmp		// –Ú‘å
+win/reaction09_kuti1.bmp	213091	// Œû’†
+null.bmp		// Œû‘å
+win/fukidashi/?_kati01.bmp	344041	// ƒZƒŠƒt
+win/fukidashi/?_kati02.bmp	344041	// ƒZƒŠƒt
+win/fukidashi/?_kati03.bmp	344041	// ƒZƒŠƒt
+     8        éò               ƒvƒŒƒCƒ„[WIN
+(   /ka                             winin/         	// BACK,ƒZƒŠE// BA        
+Ş”
+win/i_k
+i_k000.yg
+ ‰e
+wii_kage.ygmoji.yage.yg0004  /reactwin/reaction/react"/re         	//         /react’†
+null.bmpl.bmp		// –Ú’†
+nubmp	213091	// Œû’†ction09_kuti1.bû‘E
+w		// Œû‘å
+w         	p	344041	’†
+null..bmp	3440i01.bmp	3)	// –Ú’†
+.bmp	344041	ction09_kfukidashi/?_kat(.bmp)*041	fukidashi/?_kati03i03.bmp	3

@@ -1,0 +1,23 @@
+// フェイズ（停止）ReleaseLevel:0
+pha_s_dr.bmp	220066
+pha_s_st.bmp	220146
+pha_s_m1.bmp	220226
+pha_s_ba.bmp	220306
+pha_s_m2.bmp	220386
+pha_s_en.bmp	220466
+
+// フェイズ（相手）
+pha_b_dr.bmp
+pha_b_st.bmp
+pha_b_m1.bmp
+pha_b_ba.bmp
+pha_b_m2.bmp
+pha_b_en.bmp
+
+// フェイズ（赤から青めくりアニメ）ReleaseLevel:0
+pha_r_dr.bmp
+pha_r_st.bmp
+pha_r_m1.bmp
+pha_r_ba.bmp
+pha_r_m2.bmp
+pha_r_en.bmp

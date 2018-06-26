@@ -1,0 +1,6 @@
+// 魔法・罠効果
+kouka_ue_b.yga
+kouka_sita_b.yga
+// モンスター効果
+kouka_ue_y.yga
+kouka_sita_y.yga

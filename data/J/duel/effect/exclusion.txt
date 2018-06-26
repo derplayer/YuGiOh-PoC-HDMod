@@ -1,0 +1,9 @@
+jyoga_hikacard.yga	// 光カード
+jyoga_hikatate.yga	// 転送ビーム
+jyoga_ryusi1.bmp	// 粒子
+jyoga_ryusi2.bmp	// 粒子
+jyoga_ryusi3.bmp	// 粒子
+jyoga_ryusi4.bmp	// 粒子
+jyoga_ryusi5.bmp	// 粒子
+jyoga_ryusi6.bmp	// 粒子
+

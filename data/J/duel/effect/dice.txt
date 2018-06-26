@@ -1,0 +1,14 @@
+dice_random.bmp	6	// ƒ‰ƒ“ƒ_ƒ€‰ñ“]
+dice_shadow.yga	6	// ‰e
+dice_ani_2453.bmp	16	// c‰ñ“]
+dice_shadow2.yga	4	// ‰e
+dice_ani_5621.bmp	16	// c‰ñ“]
+dice_shadow2.yga	4	// ‰e
+
+dice_dci_sha.yga
+dice_decide1.bmp
+dice_decide2.bmp
+dice_decide3.bmp
+dice_decide4.bmp
+dice_decide5.bmp
+dice_decide6.bmp

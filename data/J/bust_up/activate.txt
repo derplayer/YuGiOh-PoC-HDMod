@@ -1,0 +1,12 @@
+// 座標値を3桁ずつ表記
+dummy#.bmp	000000	// 遊戯
+null.bmp	176240	// 目中
+null.bmp	176240	// 目大
+null.bmp	240193	// 目中
+null.bmp	240193	// 目大
+null.bmp	244280	// 口中
+null.bmp	244280	// 口大
+null.bmp	085349	// 剣
+null.bmp	213474	// 護封
+null.bmp	372000	// セリフ1
+null.bmp	372000	// セリフ2

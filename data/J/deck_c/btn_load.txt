@@ -1,0 +1,2 @@
+kabegami/import_1_?.bmp	112059			//	Import On
+kabegami/import_2_?.bmp	112059			//	Import Push

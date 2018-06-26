@@ -1,0 +1,8 @@
+deck.bmp		// デッキ
+deck_shadow.bmp	// デッキの影
+grave.bmp		// 墓場
+
+jyogai_ji1.yga	030014	// 自分除外, 中心位置
+jyogai_ji2.yga	030014	// 自分除外押, 中心位置
+jyogai_ai1.yga	030014	// 相手除外, 中心位置
+jyogai_ai2.yga	030014	// 相手除外押, 中心位置

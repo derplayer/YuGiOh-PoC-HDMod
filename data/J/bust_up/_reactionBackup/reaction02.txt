@@ -1,0 +1,13 @@
+reaction/reaction02.bmp	250030	// キャラ,表示位置
+null.bmp	000000	// コマ左上座標
+null.bmp	300000	// コマ右上座標
+null.bmp	036546	// コマ左下座標
+null.bmp	336546	// コマ右下座標
+
+null.bmp	2	// 目パチ
+reaction/reaction02_eyes2.bmp	134087
+reaction/reaction02_eyes1.bmp	134087
+null.bmp	0001	// 口アニメ(抜きなし)
+reaction/reaction02_kuti1.bmp	145147
+reaction/reaction02_kuti2.bmp	145147
+reaction/reaction02_kuti2.bmp	145147

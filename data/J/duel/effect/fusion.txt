@@ -1,0 +1,10 @@
+fusion_mark.yga
+fusion_uzu.yga
+fusion_cir.yga
+
+fu_kira_a1.bmp
+fu_kira_a2.bmp
+fu_kira_a3.bmp
+fu_kira_b1.bmp
+fu_kira_b2.bmp
+fu_kira_b3.bmp

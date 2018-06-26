@@ -1,0 +1,15 @@
+font/font_big.bmp		//	デッキ枚数表示
+font/font_big_red.bmp	//	デッキ枚数表示(40枚以下用)
+font/font_small.bmp		//	かばん枚数表示
+font/side_right.bmp		//	かばん枚数の飾り右
+font/side_left.bmp		//	かばん枚数の飾り左
+font/font_k_kousyu.bmp	//	攻撃力表示用
+font/font_k_star.bmp		//	星のカウント用
+icon/icon_zokusei.bmp		//	属性
+icon/icon_syuzoku.bmp		//	種族
+icon/icon_mahouwana.bmp		//	カードアイコン（装備など）
+icon/icon_syurui_?.bmp		//	フレーム表示用(ボタンの上に)
+icon/icon_sort.bmp			//	ソート種別
+font/font_maisuu.bmp	68127	//	カード交換枚数表示用
+font/font_maisuu_s.bmp		//	カード交換枚数表示用(小)
+icon/icon_seigen.bmp		//	制限表示アイコン

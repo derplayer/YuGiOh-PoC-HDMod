@@ -1,0 +1,21 @@
+//	画面
+2p_duel#.bmp
+shatter.bmp		260550	//	シャッター座標（yはマイナス）
+
+//	名前
+null.bmp			260550	//	シャッター座標（yはマイナス）
+null.bmp	298258
+null.bmp			053170	//	入力位置
+null.bmp			139016	//	入力範囲
+switch.bmp			130270
+
+//	ホストorゲスト
+null.bmp			260320	//	シャッター座標（yはマイナス）
+null.bmp	291350
+host_on.bmp		092418	//	シャッター相対座標
+guest_on.bmp		311418	//	シャッター相対座標
+
+null.bmp			260000	//	yはマイナス
+wait_conect.bmp	325187	//	ホスト
+no_user.bmp		325187	//	ゲスト
+host_name.bmp		144098	//	カーソル(シャッター相対座標)

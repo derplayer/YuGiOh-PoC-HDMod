@@ -1,0 +1,3 @@
+list_jyoga_aite.bmp		93	// ウィンドウ,カード中心Y座標
+list_jyoga_aite2.bmp	74	// スクロールバー付,カード中心Y座標
+exclude_scroll2.txt		143	// スクロールバー,バー中心Y座標

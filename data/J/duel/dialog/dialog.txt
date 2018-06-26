@@ -1,0 +1,2 @@
+dial_base.bmp	016036	// ベース,テキストエリアXY座標
+dial_bott.bmp	22	// 下側,テキストエリア下端Y座標

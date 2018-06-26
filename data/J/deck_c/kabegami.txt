@@ -1,0 +1,27 @@
+kabegami/kabegami_c.bmp			//	All of them NOT Scaleable...
+kabegami/line.bmp				//	詳細のモンスター時のバー
+kabegami/waku_l_4.bmp			//	カード選択枠
+kabegami/waku_l_3.bmp			//	カード選択枠
+kabegami/waku_l_2.bmp			//	カード選択枠
+kabegami/waku_l_1.bmp			//	カード選択枠
+kabegami/wakug_l_4.bmp			//	カード選択枠
+kabegami/wakug_l_3.bmp			//	カード選択枠
+kabegami/wakug_l_2.bmp			//	カード選択枠
+kabegami/wakug_l_1.bmp			//	カード選択枠
+kabegami/waku_s_4.bmp			//	カード選択枠
+kabegami/waku_s_3.bmp			//	カード選択枠
+kabegami/waku_s_2.bmp			//	カード選択枠
+kabegami/waku_s_1.bmp			//	カード選択枠
+kabegami/wakug_s_4.bmp			//	カード選択枠
+kabegami/wakug_s_3.bmp			//	カード選択枠
+kabegami/wakug_s_2.bmp			//	カード選択枠
+kabegami/wakug_s_1.bmp			//	カード選択枠
+
+card_koukan/kabegami_r.bmp		//	カード交換時に使用
+kabegami/new_anime_?.bmp			//	NewCardアニメ
+kabegami/deckwaku#.yga			//	デッキ範囲表示枠
+kabegami/kabegami_c.bmp			//	背景通常
+
+kabegami/light_d.bmp	238007
+kabegami/light_s.bmp	238395		//	ポイントエリア表示アニメサイドデッキ
+kabegami/light_f.bmp	238501		//	ポイントエリア表示アニメフュージョンデッキ

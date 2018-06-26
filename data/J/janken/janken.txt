@@ -1,0 +1,47 @@
+00000.yga	000000	// 左柱
+00000.bmp	106000	// 画面上
+00000.yga	710000	// 右柱
+00000.yga	107444	// 左柱
+janken.yga	000000	// this fucker is exploitable as background
+00000.yga	579000	// 右柱
+00000.bmp	106269	// 画面左中
+_bg_mid_m1.bmp	// 画面中中
+_bg_mid_m2.bmp	// 画面中中
+00000.bmp	620269	// 画面右中
+jya_gu_1.bmp
+jya_gu_2.bmp
+jya_gu_3.bmp
+jya_gu_4.bmp
+jya_gu_5.bmp
+jya_cyo_1.bmp
+jya_cyo_2.bmp
+jya_cyo_3.bmp
+jya_cyo_4.bmp
+jya_cyo_5.bmp
+jya_pa_1.bmp
+jya_pa_2.bmp
+jya_pa_3.bmp
+jya_pa_4.bmp
+jya_pa_5.bmp
+jya_eye_1.bmp
+jya_eye_2.bmp
+jya_eye_3.bmp
+jya_win.yga
+start_first_?1.bmp
+start_first_?2.bmp
+start_second_?1.bmp
+start_second_?2.bmp
+
+// 城之内拡張
+_belt1.bmp	// those fucker also exploitable as background but need hex modifications for this
+_belt2.bmp	// ベルトコンベア
+_belt3.bmp	// ベルトコンベア
+_belt4.bmp	// ベルトコンベア
+_belt5.bmp	// ベルトコンベア
+_belt6.bmp	// ベルトコンベア
+
+_bg_kabe_l.bmp	000000	// 隠し壁,基準点までのオフセット
+_bg_kabe_r.bmp	009000	// 隠し壁,基準点までのオフセット
+
+_bg_plus1.bmp	// 穴埋め
+_bg_plus2.bmp	// 穴埋め

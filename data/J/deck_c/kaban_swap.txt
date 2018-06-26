@@ -1,0 +1,19 @@
+card_koukan/kabegami_l_?.bmp			//	Ú×•”•ª
+kabegami/line.bmp					//	Ú×‚Ìƒ‚ƒ“ƒXƒ^[‚Ìƒo[
+card_koukan/r_up.bmp
+card_koukan/r_up.bmp
+card_koukan/r_down.bmp
+card_koukan/r_up.bmp
+card_koukan/r_up.bmp
+card_koukan/r_down.bmp
+
+card_koukan/maisuu.bmp				//	–‡”•\¦”Â
+card_koukan/kage1.yga				//	‰e‚P
+card_koukan/kage2.yga				//	‰e‚Q
+card_koukan/kage3.yga				//	‰e‚R
+
+card_koukan/wave_1.bmp				//	”gŒ`‘å
+card_koukan/wave_2.bmp				//	”gŒ`¬
+card_koukan/wave_3.bmp				//	”gŒ`¬
+card_koukan/wave_4.bmp				//	”gŒ`¬
+card_koukan/bar.bmp					//	ƒ[ƒ^

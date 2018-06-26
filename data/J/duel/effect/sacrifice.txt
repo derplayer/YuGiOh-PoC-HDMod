@@ -1,0 +1,4 @@
+card_pika_h.yga
+eff_set_y.bmp
+eff_star0_y.bmp
+eff_star1_y.bmp

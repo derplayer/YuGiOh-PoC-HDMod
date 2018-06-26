@@ -1,0 +1,9 @@
+sp_sum_a1.yga
+sp_sum_a2.yga
+sp_sum_a3.yga
+sp_sum_a4.yga
+
+sp_sum_d1.yga
+sp_sum_d2.yga
+sp_sum_d3.yga
+sp_sum_d4.yga

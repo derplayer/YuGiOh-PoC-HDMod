@@ -1,0 +1,2 @@
+export/cancel_e_1_?.bmp	195219	//	Cancel On
+export/cancel_e_2_?.bmp			//	Cansel Push

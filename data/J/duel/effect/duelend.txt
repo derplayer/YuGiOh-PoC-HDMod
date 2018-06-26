@@ -1,0 +1,4 @@
+duel_win_?.yga
+duel_lose_?.yga
+duel_draw_?.yga
+aborted_?.bmp

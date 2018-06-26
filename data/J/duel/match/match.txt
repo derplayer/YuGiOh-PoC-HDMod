@@ -1,0 +1,15 @@
+match_bord.bmp	1	// マーク座標種類(0:画像中心 1:左上 2:右上 3:左下 4:右下)
+
+// マーク
+blue_pwin.yga	141	// 自分勝ち、X
+red_cwin.yga	097	// 敵勝ち、Y
+lose_m.yga	070	// 負け、Xpitch
+close_m_?.bmp	004074	// 負け、Xずれ,Ypitch
+green_draw.yga	058	// 引き分け、Ypitch
+// 結果
+match_WIN_?.yga
+match_LOSE_?.yga
+match_DRAW_?.yga
+// 城之内拡張
+match_bo_l.bmp	009302
+match_bo_r.bmp	364302

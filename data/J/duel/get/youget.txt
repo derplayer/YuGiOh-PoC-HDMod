@@ -1,0 +1,20 @@
+you_get_?1.yga		125	// YouGet 真っ白,中心のY座標
+you_get_?2.yga		// YouGet 通常
+you_get_?_mask.bmp	// YouGet マスク
+you_gets_?1.yga		125	// YouGet 真っ白,中心のY座標
+you_gets_?2.yga		// YouGet 通常
+you_gets_?_mask.bmp	// YouGet マスク
+you_get_ref1.bmp	// YouGet 反射
+
+card_new_hikari.yga	// カード用 光
+you_get_ref2.bmp	// カード用 反射
+
+card_new_?.yga		380	// NEW 通常,中心のY座標
+card_new_?_mask.bmp	// NEW マスク
+card_new_rain.bmp	// NEW 虹
+
+retry_w_?.bmp		176450
+retry_y1_?.bmp		116080
+retry_y2_?.bmp		116080
+retry_n1_?.bmp		234080
+retry_n2_?.bmp		234080

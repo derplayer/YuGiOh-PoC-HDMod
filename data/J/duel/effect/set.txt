@@ -1,0 +1,6 @@
+eff_set_y.bmp
+eff_set_b.bmp
+eff_star0_y.bmp
+eff_star1_y.bmp
+eff_star0_b.bmp
+eff_star1_b.bmp

@@ -1,0 +1,4 @@
+load/bar_l.bmp			//	ロード画面のスクロールバー
+load/bar_l_long.bmp		//	ロード画面の少ないときのスクロールバー
+load/up_l.bmp			//	スクロールバーの上ボタン
+load/down_l.bmp			//	スクロールバーの下ボタン

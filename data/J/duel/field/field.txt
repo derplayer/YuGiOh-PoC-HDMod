@@ -1,0 +1,32 @@
+null.bmp		//	
+null.bmp		//	
+
+fie_normal.bmp	//	----:通常
+fie_mori_f?.yga	//	0329:森
+fie_mori.bmp		//	0329:森
+fie_kouya_f?.yga	//	0330:荒野
+fie_kouya.bmp	//	0330:荒野
+fie_yama_f?.yga	//	0331:山
+fie_yama.bmp		//	0331:山
+fie_sougen_f?.yga	//	0332:草原
+fie_sougen.bmp	//	0332:草原
+fie_umi_f?.yga	//	0333:海
+fie_umi.bmp		//	0333:海
+fie_yami_f?.yga	//	0334:闇
+fie_yami.bmp		//	0334:闇
+fie_sanctu_f?.yga	//	1069:聖域の歌声
+fie_sanctu.bmp
+fie_gaia_f?.yga	//	1125:ガイアパワー
+fie_gaia.bmp
+fie_water_f?.yga	//	1126:ウォーターワールド
+fie_water.bmp
+fie_burn_f?.yga	//	1127:バーニングブラッド
+fie_burn.bmp
+fie_desert_f?.yga	//	1128:デザートストーム
+fie_desert.bmp
+fie_shine_f?.yga	//	1129:シャインスパーク
+fie_shine.bmp
+fie_dark_f?.yga	//	1130:ダークゾーン
+fie_dark.bmp
+fie_fusion_f?.yga	//	1547:フュージョン・ゲート
+fie_fusion.bmp

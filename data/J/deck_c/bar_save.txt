@@ -1,0 +1,4 @@
+save/bar_s.bmp			//	スクロールバー
+save/bar_s_long.bmp		//	スクロールバー少ないとき用
+kabegami/bar_up.bmp				//	スクロールバー上ボタン
+kabegami/bar_down.bmp			//	スクロールバー下ボタン

@@ -1,0 +1,28 @@
+cardlistmoji2.bmp		195000	// タイトル名
+
+back1.bmp		738006	// Back1
+back2.bmp		738006	// Back2
+
+page_font.bmp	476576	// ページ番号
+page_font.bmp	530576	// ページ番号
+pe_yaji_l.bmp	408565	// 左矢印1
+pe_yaji_l.bmp	408565	// 左矢印2
+pe_yaji_r.bmp	549565	// 右矢印1
+pe_yaji_r.bmp	549565	// 右矢印2
+
+card_waku.bmp	225110	// 枠,カードリスト位置
+new_anime.bmp	5	// NEW,アニメ枚数
+
+get_font.bmp	720030	// 収集率フォント, 表示右上位置
+get_symbol.bmp	130916	// "/.%",2桁ずつで幅
+
+joey_only2.bmp	658530	// onlyフィルタ,無効
+joey_only1.bmp	658530	// onlyフィルタ,通常
+joey_only1.bmp	658530	// onlyフィルタ,光
+allcards2.bmp	220531	// allフィルタ,無効
+allcards1.bmp	220531	// allフィルタ,通常
+allcards1.bmp	220531	// allフィルタ,光
+
+// 城之内版特殊処理
+cardlistmoji3.bmp		195000	// タイトル名
+cardlistmoji1.bmp		195000	// タイトル名

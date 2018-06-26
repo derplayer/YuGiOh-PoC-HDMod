@@ -1,0 +1,2 @@
+kabegami/save_1.bmp				//	Save On
+kabegami/save_2.bmp				//	Save Push

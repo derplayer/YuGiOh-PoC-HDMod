@@ -1,0 +1,2 @@
+filter_small_?/atk_1.bmp				//	Attack On
+filter_small_?/atk_2.bmp				//	Attack Push

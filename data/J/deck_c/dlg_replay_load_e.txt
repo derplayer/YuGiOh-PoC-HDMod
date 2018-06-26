@@ -1,0 +1,2 @@
+replay_?/replay_l_1.bmp	95219	//	Export On
+replay_?/replay_l_2.bmp		//	Export Push

@@ -1,0 +1,46 @@
+#KONAMI.bmp		// konami #KONAMI.bmp
+#JPN_LOGO.bmp	// jpn
+#dolby.bmp		// dolby
+
+TRIAL01?.bmp		// trial版
+TITLE_V?.bmp	// jump版(未使用)
+
+TITLE_1_e.bmp	// Title Background Layer Pos 0x0
+joey_logo.bmp	455050	// タイトルロゴ
+
+menu_g_ani0.bmp	502320
+menu_g_ani1.bmp	502320
+menu_g_ani2.bmp
+menu_g_ani3.bmp
+menu_g_ani4.bmp
+menu_g_ani5.bmp
+menu_g_ani6.bmp
+
+menu_g_d_ani0.bmp	502320
+menu_g_d_ani1.bmp	502320
+menu_g_d_ani2.bmp
+menu_g_d_ani3.bmp
+menu_g_d_ani4.bmp	
+menu_g_d_ani5.bmp
+menu_g_d_ani6.bmp
+
+//	拡張
+mask0.yga
+joey_title_m1.bmp	440050
+koutaku0.bmp
+mask0.yga
+joey_title_m2.bmp	440050
+koutaku0.bmp
+
+d_lv0.bmp		685466	//Stars in Second Menu TODO FIX?
+d_lv_d1.bmp		
+d_lv_d2.bmp		
+d_lv_u1.bmp		
+d_lv_u2.bmp		
+lv_?_down.bmp	
+lv_?_up.bmp		
+
+//	LAN
+load_deck_e.bmp		588400	//	かばんメニュー
+loadon_this_e.bmp	040070	//	これ
+loadon_other_e.bmp	260070	//	あれ

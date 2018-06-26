@@ -1,0 +1,13 @@
+// 座標値を3桁ずつ表記
+summon/redeyes/kanji_haikei.yga		// 背景
+summon/redeyes/moji_e.bmp			195310		// マスク
+null.bmp	000000		// JOEY
+null.bmp	000000	// 目中
+null.bmp	000000	// 口アニメ(抜きなし)
+null.bmp	000000
+null.bmp	000000
+null.bmp	000000	// 目大
+summon/m_0.bmp	000000	// 口中
+summon/m_1.bmp	000000	// 口大
+summon/kurohyo/moji_e.bmp	// セリフ
+

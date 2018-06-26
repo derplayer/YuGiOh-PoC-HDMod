@@ -1,0 +1,10 @@
+match_waku1.bmp	199020548	// íÑ˜gi‚RŒ…‚¸‚Â X,Y2P,Y1Pj
+match_waku2.bmp	142638		// “_–Å˜gi‚QŒ…‚¸‚Â Y1,Y2,Y3j
+match_waku3.bmp				// “_–Å˜g
+// ‡”Ô’ˆÓ
+match_win_ji.bmp			// Ÿ‚¿˜g
+match_waku0.bmp				// •‰‚¯˜g(“G)
+match_waku0.bmp				// •‰‚¯˜g
+match_win_ai.bmp			// Ÿ‚¿˜g(“G)
+match_draw_ji.bmp			// ˆø‚«•ª‚¯˜g
+match_draw_ai.bmp			// ˆø‚«•ª‚¯˜g(“G)

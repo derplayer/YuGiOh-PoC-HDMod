@@ -1,0 +1,16 @@
+cursor_pow.yga	//	衝撃波
+cursor00.yga			007014	//	OFF
+cursor01.yga			007014	//	ON
+cursor_?_summon.yga		007030	//	召喚
+cursor_?_flip.yga		007030	//	反転
+cursor_?_atk.yga		007030	//	攻撃
+cursor_?_act.yga		007030	//	発動
+cursor_?_set.yga		007030	//	セット
+cursor_?_setdef.yga		007030	//	守備表示
+cursor_?_setatk.yga		007030	//	攻撃表示
+cursor_?_draw.yga		007030	//	ドロー
+cursor_?_surrender.yga	060030	//	降参
+cursor_?_fusion.yga		007030	//	融合
+cursor_ssummon_a.yga	007030	//	特殊召喚（攻撃表示）
+cursor_ssummon_d.yga	007030	//	特殊召喚（守備表示）
+cursor_e_over.yga		007014	//	カードの移動不可能

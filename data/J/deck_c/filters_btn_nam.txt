@@ -1,0 +1,2 @@
+filter_small_?/name_1.bmp				//	Name On
+filter_small_?/name_2.bmp				//	Name Push

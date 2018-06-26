@@ -1,0 +1,4 @@
+attention/bar_a.bmp			//	スクロールバー
+attention/bar_a_long.bmp		//	スクロールバー少ないとき用
+attention/up_a.bmp			//	スクロールバー上ボタン
+attention/down_a.bmp			//	スクロールバー下ボタン

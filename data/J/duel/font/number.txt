@@ -1,0 +1,10 @@
+// ‹L†‚ğŠÜ‚ß‚Ä’è‹`‚³‚ê‚Ä‚¢‚é”‚ğ‘‚­
+duel_fonts.bmp	11
+duel_fontm.bmp	11
+duel_fontm_b.bmp	10
+duel_fontm_r.bmp	10
+duel_fontm_k.bmp	11
+duel_fontl.bmp	10
+damage00.bmp	12
+damage01.bmp	12
+duel_fontm_y.bmp	10

@@ -1,0 +1,18 @@
+// 座標は絶対座標
+joey_menu_op_e.bmp		275075	// OPTIONプレート
+
+// フォーカス
+op_?_win_win.bmp	375555	// WINDOW
+op_?_win_full.bmp	435588	// FULLSCREEN
+op_?_win_16.bmp		361610	// 16BIT
+op_?_win_24.bmp		461610	// 24BIT
+op_?_win_32.bmp		560610	// 32BIT
+op_?_cardset0.bmp	704457	// FULL
+op_?_cardset1.bmp	856457	// JOEY
+op_limited.bmp		832599	// LIMITED
+null.bmp
+
+// スクロールバー
+op_sound.bmp	345474	// position of volume bar
+op_sound.bmp	680474	// size for sound scaling
+op_sound.bmp	021025	// sprite tileing value

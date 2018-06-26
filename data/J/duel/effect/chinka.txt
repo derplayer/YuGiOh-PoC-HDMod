@@ -1,0 +1,7 @@
+chinka1.yga
+chinka2.yga
+chinka3.yga
+chinka4.yga
+
+chinka_mark1.yga
+chinka_mark2.yga

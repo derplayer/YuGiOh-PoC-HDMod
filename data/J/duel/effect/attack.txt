@@ -1,0 +1,4 @@
+atk_icon.bmp
+atk_icon2.bmp
+atk_eff.yga
+dmg_ref.yga

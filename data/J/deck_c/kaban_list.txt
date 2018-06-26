@@ -1,0 +1,8 @@
+kabegami/kaban.bmp				//	Kaban List
+kabegami/right.bmp				//	スクロールバー背景
+kabegami/filter_mini.bmp		//	フィルターボタン
+kabegami/kaban_kage.yga			//	スクロールバー影
+font/font_k_sura.bmp			//	攻守間のスラッシュ
+icon/icon_star.bmp				//	星
+kabegami/00.bmp					//	リストの穴埋め用上(JOEY)
+kabegami/00.bmp				//	リストの穴埋め用下(JOEY)

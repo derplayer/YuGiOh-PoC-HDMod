@@ -1,0 +1,2 @@
+kabegami/f_fus_1.bmp			//	Fusion On
+kabegami/f_fus_2.bmp			//	Fusion Push

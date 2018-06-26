@@ -1,0 +1,2 @@
+filter_small_?/attribute_1.bmp			//	Attribute On
+filter_small_?/attribute_2.bmp			//	Attribute Push

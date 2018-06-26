@@ -1,0 +1,6 @@
+loop_blue.bmp	// 流すやつ
+ico_equip.bmp	// 装備
+ico_conti.bmp	// 永続
+ico_field.bmp	// フィールド
+ico_kousoku.bmp	// 拘束
+ico_power.bmp	// パワーアップ系

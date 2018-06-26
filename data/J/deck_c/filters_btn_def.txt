@@ -1,0 +1,2 @@
+filter_small_?/def_1.bmp				//	Defense On
+filter_small_?/def_2.bmp				//	Defense Push

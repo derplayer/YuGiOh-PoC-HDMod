@@ -1,0 +1,5 @@
+list_bg.bmp		006087	// 背景,カード位置
+null.bmp		016393	// ,テキストエリア左上
+null.bmp		180592	// ,テキストエリア右下
+line.bmp		6		// 線、X位置
+detail_scroll.txt	177400	// スクロールバー、位置

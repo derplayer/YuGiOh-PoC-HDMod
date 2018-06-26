@@ -1,0 +1,2 @@
+icon_zokusei.bmp	10	// 属性アイコン
+icon_syuzoku.bmp	20	// 種族アイコン

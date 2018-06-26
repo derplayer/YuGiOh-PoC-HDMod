@@ -1,0 +1,4 @@
+replay_?/w_replay_s.bmp		//	背景
+export/select_1.bmp			//	選択カーソル(アクティブ)
+export/select_2.bmp			//	選択カーソル(非アクティブ)
+export/cursor.bmp			//	入力カーソル

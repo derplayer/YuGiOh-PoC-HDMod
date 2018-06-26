@@ -1,0 +1,2 @@
+kabegami/yajirusi_1.bmp			//	Window On
+kabegami/yajirusi_2.bmp			//	Window Push

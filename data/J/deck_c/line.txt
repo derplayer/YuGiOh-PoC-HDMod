@@ -1,0 +1,2 @@
+line/line_x.bmp
+line/line_y.bmp

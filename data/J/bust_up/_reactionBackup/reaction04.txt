@@ -1,0 +1,14 @@
+reaction/reaction04.bmp	065075	// キャラ,表示位置
+null.bmp	000000	// コマ左上座標
+null.bmp	666098	// コマ右上座標
+null.bmp	000454	// コマ左下座標
+null.bmp	666373	// コマ右下座標
+
+null.bmp	3	// 左眼アニメ種類
+reaction/reaction04_te1.bmp	477180	// 左眼,表示位置
+reaction/reaction04_te2.bmp	477180	// 左眼,表示位置
+reaction/reaction04_te3.bmp	477180	// 左眼,表示位置
+null.bmp	2	// 目パチ
+reaction/reaction04_kuti1.bmp	132223
+null.bmp	0001	// 口アニメ(抜きなし)
+reaction/reaction04_eyes1.bmp	168133

@@ -1,0 +1,2 @@
+kabegami/f_tra_1.bmp			//	Trap On
+kabegami/f_tra_2.bmp			//	Trap Push

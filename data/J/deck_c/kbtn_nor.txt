@@ -1,0 +1,2 @@
+kabegami/f_nor_1.bmp			//	Normal On
+kabegami/f_nor_2.bmp			//	Normal Push

@@ -1,0 +1,2 @@
+kabegami/f_mag_1.bmp			//	Magic On
+kabegami/f_mag_2.bmp			//	Magic Push

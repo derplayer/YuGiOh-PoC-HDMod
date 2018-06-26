@@ -1,0 +1,32 @@
+// ダイアログのボタン
+// マスク画像、ノーマル時、フォーカス時、押下時の順
+// 数字はダイアログの（中央X、内部下端Y）からの中心座標の相対座標
+// 城之内版はさらに丸画像のオフセット
+ok_?_out.yga	0	// X
+ok_?_out.yga	-21	// Y
+ok_?_over.yga	-10
+ok_?_over.yga
+
+yes_?_out.yga	-64	// X
+yes_?_out.yga	-24	// Y
+yes_?_over.yga	-10
+yes_?_over.yga
+
+no_?_out.yga	64	// X
+no_?_out.yga	-21	// Y
+no_?_over.yga	-10
+no_?_over.yga
+
+// 選択ボタンは特殊なので座標指定なし 並びも特殊
+3taku_mask.bmp
+3taku_waku.yga	
+3taku_waku2.yga	
+3taku_on.yga	
+3taku_on2.yga	
+
+// 決定丸アニメ
+y_n_cir1.yga
+y_n_cir2.yga
+y_n_cir3.yga
+y_n_cir4.yga
+

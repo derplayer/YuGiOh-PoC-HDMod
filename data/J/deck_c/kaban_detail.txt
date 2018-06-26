@@ -1,0 +1,2 @@
+kabegami/kabegami_l_?.bmp			//	背景
+kabegami/line.bmp				//	詳細のモンスター時のバー
