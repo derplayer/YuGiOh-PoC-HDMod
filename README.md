@@ -4,8 +4,7 @@ A bit unfinished, but working HD mod for Yu-Gi-Oh! Power of Chaos. Feel free to 
 
 How to run:
 
-* Download data.7z and voice.7z from this repository
-	* Mod is in 7z archives, because git breaks something in files, and the game will crash when cloned
+* Download the data and voice folder from this repository.
 * Extract it into the game folder that you want to mod.
 * There should be now a data and voice folder that is next to the executable ("joey_pc.exe").
 * Download the [Yu-Gi-Oh Mod Tools](https://derplayer.neocities.org/repo/yugioh/index.html)
